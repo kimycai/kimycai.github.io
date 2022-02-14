@@ -13,3 +13,5 @@ function displayDate(){
 <p id="demo">这是一个段落</p>
 
 <button type="button" onclick="displayDate()">显示日期</button>
+	
+	<audio src="文件路径" controls autoplay loop></audio>
